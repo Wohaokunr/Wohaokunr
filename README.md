@@ -8,7 +8,7 @@
 - **Programming Languages / 编程语言：** C#, Python
 
 ## Projects / 项目经历
-- **Project 1 / 项目1：** [暴打蔡老师]
+- **Project 1 / 项目1：** [爆打蔡老师]
 
 ## Interests / 兴趣爱好
 - [睡觉，摸鱼]
