@@ -1,19 +1,29 @@
-# Self-Introduction / 自我介绍
+# 我是我好困~
 
-## Basic Information / 基本信息
-- **Name (Chinese Name) / 姓名（中文名）：** Wo Haokun / 我好困
-- **Age / 年龄：** High school student / 高中牲
+<img src="https://komarev.com/ghpvc/?username=Wohaokunr&color=blueviolet" alt="Profile Views" align="right" />
 
-## Skills / 技能
-- **Programming Languages / 编程语言：** C#, Python
+---
 
-## Projects / 项目经历
-- **Project 1 / 项目1：** [爆打蔡老师]
+## 🎮 Fun Facts About Me
 
-## Interests / 兴趣爱好
-- [睡觉，摸鱼]
+- 🌍 我的代码已经运行在[某个有趣的描述，例如“从本地电脑到云端服务器”]  
+- 🐱 我可能比你更懂猫（或者狗？）  
+- ☕ 用一杯咖啡的时间，我就能解决一个 Bug（偶尔会制造更多 😅）
 
-## Contact / 联系方式
-- none
+---
 
-Feel free to connect with me! / 欢迎与我联系！ 
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wohaokunr&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wohaokunr&layout=compact&theme=radical)
+
+---
+
+
+## 🎯 Currently Exploring
+
+- [睡觉]  
+
+
+---
+
